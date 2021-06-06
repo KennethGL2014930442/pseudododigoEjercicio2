@@ -1,0 +1,7 @@
+Algoritmo Ejercicio2
+	Escribir 'Ingrese un numero : '
+	Leer num
+	Para i<-num Hasta 1 Hacer
+		Escribir i
+	FinPara
+FinAlgoritmo
